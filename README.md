@@ -1,10 +1,11 @@
 ### Hi Iam toyo-takechan 👋
 
-<!--
-**toyo-takechan/toyo-takechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-現在　大阪のお菓子の会社で　小売部長をしています。
+## 現在　大阪のお菓子の会社で　小売部長をしています。
 おじさんですが、プログラミングの勉強をしています。
 下手くそな　アプリを作成中！　なんとかブラッシュアップしていきたいです。
+<!--
+**toyo-takechan/toyo-takechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
