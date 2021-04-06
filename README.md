@@ -1,8 +1,13 @@
 ### Hi Iam toyo-takechan 👋
+##　プログラミング初心者です。
 
 現在　大阪のお菓子の会社で　小売部長をしています。<br>
 おじさんですが、プログラミングの勉強をしています。<br>
 下手くそな　アプリを作成中！　なんとかブラッシュアップしていきたいです。<br>
+
+Railsチュートリアル　Progate ドットインストール　で学習中！<br>
+
+
 <!--
 **toyo-takechan/toyo-takechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
