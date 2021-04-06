@@ -1,8 +1,8 @@
 ### Hi Iam toyo-takechan 👋
 
-現在　大阪のお菓子の会社で　小売部長をしています。
-おじさんですが、プログラミングの勉強をしています。
-下手くそな　アプリを作成中！　なんとかブラッシュアップしていきたいです。
+現在　大阪のお菓子の会社で　小売部長をしています。<br>
+おじさんですが、プログラミングの勉強をしています。<br>
+下手くそな　アプリを作成中！　なんとかブラッシュアップしていきたいです。<br>
 <!--
 **toyo-takechan/toyo-takechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
